@@ -1,4 +1,4 @@
-# pairWars
+# pairwair randomizing game with deck of cards
 
 The program contains three players, one dealer, one deck containing 52 cards that need to be randomized (shuffle),The program is broken down into different functions, each function has a specific task to perform. Down below are some of the functions used in the program and the functionality. . Down below are some of the functions used in the program and their functionality.
 
